@@ -10,3 +10,4 @@ Following my previous discovery in the superstore's data, I took the next step i
     Performed advanced techniques such as data imputation, outlier detection and handling, and data normalization to further improve the quality of the data.
 
 By going through this thorough data cleaning process, we were able to uncover more information that would have been obscured by the inconsistencies and inaccuracies in the raw data. And with this newfound clarity, we were able to take the next step in our investigation and bring the superstore's financial struggles to a close.
+![Screenshot (22)](https://github.com/AnushaMudddada/superstore_dataanalysis/assets/86538396/177cd258-e895-4fe2-8d9f-8bae6ba814d0)
